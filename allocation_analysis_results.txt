@@ -1,0 +1,9 @@
+VEHICLE ALLOCATION ANALYSIS RESULTS
+========================================
+
+Incoming vehicles: 39
+Available parking spaces: 12
+Total parking spaces: 24
+Vehicles that can be allocated: 12
+Vehicles that cannot be allocated: 27
+Allocation success rate: 30.8%

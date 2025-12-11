@@ -1,0 +1,20 @@
+train: dataset/train.txt
+val: dataset/val.txt
+
+nc: 15
+names:
+  - car
+  - bus
+  - truck
+  - autorickshaw
+  - motorcycle
+  - bicycle
+  - person
+  - animal
+  - traffic_light
+  - traffic_sign
+  - vehicle_fallback
+  - billboard
+  - pole
+  - barrier
+  - background
